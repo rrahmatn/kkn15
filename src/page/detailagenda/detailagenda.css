@@ -1,0 +1,45 @@
+
+.navDetailAgenda{
+    position: fixed;
+    height: 65px;
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    background-color:#34534d;
+    top: 0;
+}
+.bungkusDetailAgenda{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 67px;
+    padding-bottom: 85px;
+    background-color: #f3f3f3;
+
+}
+.headerAgenda{
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    padding: 12px;
+    text-align: center;
+}
+.bungkusDetailAgenda hr{
+    width: 100%;
+}
+.image-agenda {
+    height: 230px;
+    width: auto;
+    margin: 20px auto 0 auto;
+    padding: auto;
+}
+.kontenAgenda{
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    text-indent: 55px;
+    text-align: justify;
+}

@@ -1,0 +1,14 @@
+.bungkus-navbar{
+    position: fixed;
+    width: 100%;
+    height: 65px;
+    background-color: #34534d;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    top: 0;
+}
+h1{
+    color: #e4a81b;
+}
