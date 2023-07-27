@@ -100,9 +100,6 @@ const Dashboard = () => {
             >
               <IoIosPin />
             </a>
-            <a href="kknlebakwangi15@gmail.com" className="icondashboard">
-              <BiLogoGmail />
-            </a>
           </div>
         </div>
       </div>
