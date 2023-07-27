@@ -30,8 +30,8 @@
     width: 100%;
 }
 .image-agenda {
-    height: 230px;
-    width: auto;
+    height: auto;
+    width: 360px;
     margin: 20px auto 0 auto;
     padding: auto;
 }
