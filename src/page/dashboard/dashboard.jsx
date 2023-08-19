@@ -3,7 +3,7 @@ import "./dashboard.css";
 import imageDashboard from "../../harta/img/utama.jpg";
 import { IoIosPin } from "react-icons/io";
 import { AiFillInstagram } from "react-icons/ai";
-import { BiLogoGmail } from "react-icons/bi";
+// import { BiLogoGmail } from "react-icons/bi";
 
 const Dashboard = () => {
   return (

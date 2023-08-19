@@ -3,14 +3,14 @@
     "judul" : "Pemberangkatan dan Persiapan Pembukaan KKN",
     "tanggal" : "11/07/2023",
     "img" : "1.jpg" ,
+"img2" : "asdsad.jpg" ,
     "konten" : {
- 	        "p1" : "Bandung, 11/07/2023 Pada hari pertama kegiatan Kuliah Kerja Nyata (KKN), kami kelompok 15 mahasiswa Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung melaksanakan pemberangkatan di titik kumpul di Kampus 1 UIN Sunan Gunung Djati Bandung. Kegiatan ini merupakan bagian dari upaya mahasiswa untuk berkontribusi aktif dalam pembangunan masyarakat di Desa Lebakwangi, Kecamatan Arjasari, Kabupaten Bandung.",
-            "p2": "Pukul 14.00 WIB, rombongan mahasiswa KKN kelompok 15 berangkat dengan durasi perjalanan sekitar dua setengah jam, kami tiba di posko KKN yang beralamat di RT 01 Rw 11 Dusun Pasirjati Desa Lebakwangi. Tanpa waktu berlama-lama, kami segera membereskan barang-barang dan membersihkan posko untuk menjamin kenyamanan dan kelancaran kegiatan kami.",
-            "p3": "Tak hanya itu, kami kelompok 15 menerima instruksi untuk membantu persiapan pembukaan KKN Sisdamas yang akan dilaksanakan bersamaan dengan kelompok 13 dan 14 di Desa Lebakwangi. Tanpa ragu, kami sepenuh hati mengerahkan usaha dan tenaga untuk mengatur dan menyiapkan tempat acara agar pembukaan KKN berjalan dengan lancar dan sukses.",
-            "p4": "Setelah semua persiapan selesai, kelompok 15 KKN Sisdamas kembali ke posko untuk beristirahat dan mempersiapkan diri menyambut acara pembukaan KKN Sisdamas bersama kelompok 13 dan 14 Desa Lebakwangi. Kegiatan ini diharapkan dapat menjadi awal yang baik dalam menjalin kerjasama yang erat antara mahasiswa dan masyarakat setempat dalam rangka mencapai tujuan bersama.",
-            "p5": "Kuliah Kerja Nyata merupakan momen berharga bagi para mahasiswa untuk mengaplikasikan ilmu pengetahuan yang diperoleh di perkuliahan dan membuktikan bahwa mahasiswa tidak hanya berkontribusi di dunia akademik, tetapi juga dapat berperan aktif dalam perubahan nyata di tengah masyarakat. Semoga membawa dampak positif bagi perkembangan Desa Lebakwangi ke arah yang lebih baik." 
-                }
-} ,
+ 	"p1" : "Bandung, 11/07/2023 Pada hari pertama kegiatan Kuliah Kerja Nyata (KKN), kami kelompok 15 mahasiswa Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung melaksanakan pemberangkatan di titik kumpul di Kampus 1 UIN Sunan Gunung Djati Bandung. Kegiatan ini merupakan bagian dari upaya mahasiswa untuk berkontribusi aktif dalam pembangunan masyarakat di Desa Lebakwangi, Kecamatan Arjasari, Kabupaten Bandung.",
+"p2": "Pukul 14.00 WIB, rombongan mahasiswa KKN kelompok 15 berangkat dengan durasi perjalanan sekitar dua setengah jam, kami tiba di posko KKN yang beralamat di RT 01 Rw 11 Dusun Pasirjati Desa Lebakwangi. Tanpa waktu berlama-lama, kami segera membereskan barang-barang dan membersihkan posko untuk menjamin kenyamanan dan kelancaran kegiatan kami.",
+"p3": "Tak hanya itu, kami kelompok 15 menerima instruksi untuk membantu persiapan pembukaan KKN Sisdamas yang akan dilaksanakan bersamaan dengan kelompok 13 dan 14 di Desa Lebakwangi. Tanpa ragu, kami sepenuh hati mengerahkan usaha dan tenaga untuk mengatur dan menyiapkan tempat acara agar pembukaan KKN berjalan dengan lancar dan sukses.",
+"p4": "Setelah semua persiapan selesai, kelompok 15 KKN Sisdamas kembali ke posko untuk beristirahat dan mempersiapkan diri menyambut acara pembukaan KKN Sisdamas bersama kelompok 13 dan 14 Desa Lebakwangi. Kegiatan ini diharapkan dapat menjadi awal yang baik dalam menjalin kerjasama yang erat antara mahasiswa dan masyarakat setempat dalam rangka mencapai tujuan bersama.",
+"p5": "Kuliah Kerja Nyata merupakan momen berharga bagi para mahasiswa untuk mengaplikasikan ilmu pengetahuan yang diperoleh di perkuliahan dan membuktikan bahwa mahasiswa tidak hanya berkontribusi di dunia akademik, tetapi juga dapat berperan aktif dalam perubahan nyata di tengah masyarakat. Semoga membawa dampak positif bagi perkembangan Desa Lebakwangi ke arah yang lebih baik."
+    }},
 {
     "hari" : "2",
     "judul" : "Pembukaan KKN Sisdamas Moderasi Beragama Desa Lebakwangi",
@@ -25,5 +25,557 @@
             "p6": "Kami berharap dalam kegiatan pembukaan ini menjadi awal yang baik untuk kegiatan Kuliah Kerja Nyata (KKN) sidamas moderasi beragama UIN Sunan Gunung Djati Bandung, Sekaligus kita dapat memberikan kontribusi yang bermanfaat bagi masyarakat Desa Lebakwanginya."
 
                 }
+},
+
+{
+    "hari" : "3",
+    "judul" : "Survei Tempat Wisata Baru di Desa Lebakwangi",
+    "tanggal" : "13/07/2023",
+    "img" : "3.jpg" ,
+    "konten" : {
+ 	        "p1" : "Desa Lebakwangi, 13/07/2023, Kelompok 15 mahasiswa Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung mengadakan kunjungan eksplorasi ke potensi wisata di Desa Lebakwangi, Kecamatan Arjasari, Kabupaten Bandung. Dalam kunjungan tersebut, mereka didampingi oleh Bapak Kadus Diki, yang memberikan informasi dan panduan mengenai gambaran potensi wisata di desa tersebut.",
+            "p2": "Dengan semangat kebersamaan, kelompok KKN 13, 14, 15 dan Bapak Kadus Diki menjelajahi wilayah desa yang potensial untuk dikembangkan menjadi objek wisata. Selama perjalanan, mereka memperhatikan dengan seksama berbagai aspek yang bisa menjadi daya tarik bagi wisatawan, seperti keindahan alam, keunikan budaya, dan potensi ekonomi lokal.",
+            "p3": "Bapak Kadus Diki, selaku tokoh masyarakat yang memiliki pengetahuan mendalam tentang Desa Lebakwangi, turut berbagi informasi mengenai sejarah desa, keunikan budaya, serta potensi wisata yang dapat dikembangkan. Kehadirannya sebagai pendamping sangat berarti dalam memberikan pemahaman yang mendalam tentang potensi-potensi yang tersembunyi di Desa Lebakwangi."
+                }
+},
+
+
+
+{
+    "hari" : "4",
+    "judul" : "Silaturahmi ke RW 10, 11 dan Rapat Gabungan untuk Persiapan HUT RI ke78",
+    "tanggal" : "14/07/2023",
+    "img" : "4.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 14/07/2023, Kelompok 15 mahasiswa Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung terus memperkuat hubungannya dengan masyarakat Desa Lebakwangi melalui serangkaian kegiatan yang penuh makna. Dalam semangat berbaur dan mendukung perkembangan desa, kelompok ini melakukan silaturahmi khusus dengan RW 10 dan 11 guna memperkenalkan serta menginformasikan tentang kegiatan KKN yang akan berlangsung mulai dari tanggal 11 Juli hingga 19 Agustus 2023. Selain itu, kami juga membahas rencana program KKN yang akan dijalankan di wilayah RW 10 dan 11.",
+            "p2": " Selain itu, kelompok KKN 15 bersama kelompok 13 dan 14, melakukan rapat gabungan. Rapat ini bertujuan untuk membahas dan merencanakan kegiatan perlombaan dalam rangka perayaan Hari Ulang Tahun Republik Indonesia ke-78 (HUT-RI ke-78) yang akan diadakan. Acara tersebut dijadwalkan berlangsung di posko kelompok 14. Tidak hanya itu, anggota dari ketiga kelompok ini juga berpartisipasi dalam kepanitiaan acara, menunjukkan semangat kolaboratif dalam menjalankan persiapan yang matang.",
+            "p3": " Setelah rapat, para mahasiswa pulang ke posko masing-masing, dan kami kelompok 15 melakukan evaluasi terhadap kegiatan yang telah dilakukan di hari ini, Hal ini menjadi bukti nyata komitmen kelompok 15 KKN Sisdamas dalam memastikan bahwa setiap langkah yang diambil memberikan dampak positif bagi masyarakat Desa Lebakwangi."
+                }
+},
+
+{
+    "hari" : "5",
+    "judul" : "Observasi Lapangan dengan Warga Setempat di Desa Lebakwangi",
+    "tanggal" : "15/07/2023",
+    "img" : "5.jpg" ,
+    "konten" : {
+ 	        "p1" : "Desa Lebakwangi, 15/07/2023, Kelompok 15 mahasiswa Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung melakukan observasi lapangan dengan warga setempat di Desa Lebakwangi, Kecamatan Arjasari, Kabupaten Bandung.",
+            "p2": "Tujuan dari observasi lapangan tersebut adalah untuk memperkenalkan dan memberitahu warga setempat tentang adanya kegiatan KKN oleh mahasiswa UIN Sunan Gunung Djati Bandung yang akan berlangsung dari tanggal 11 Juli hingga 19 Agustus 2023. Dengan suasana  hangat, kami berbincang-bincang dengan warga untuk mendengarkan permasalahan dan harapan masyarakat terkait perkembangan desa.",
+            "p3": "Usai melakukan observasi lapangan, kelompok KKN 15 berkumpul untuk mendiskusikan hasil dari kunjungan tersebut di batoe coffe, kami berfokus pada bagaimana nantinya program KKN kami dapat membantu dan memberikan dampak positif bagi masyarakat Desa Lebakwangi, dalam upaya pemecahan masalah-masalah yang ada."
+                }
+},
+
+
+{
+    "hari" : "6",
+    "judul" : "Kunjungan Pak RT dan Kolaborasi Karang Taruna: Persiapan Meriahkan Perayaan HUT RI",
+    "tanggal" : "16/07/2023",
+    "img" : "6.jpg" ,
+    "konten" : {
+ 	        "p1" : "Desa Lebakwangi, 16/07/2023 Momentum peringatan Hari Ulang Tahun Republik Indonesia (HUT RI) semakin mendekat, dan semangat untuk mempersiapkan perayaan yang berkesan terus menggelora di Desa Lebakwangi. Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung mempersiapan menyambut perayaan kemerdekaan.",
+            "p2": "Kedatangan pak RT 01 datang ke posko KKN 15 membawa suasana keakraban dan semangat positif dalam mendukung persiapan perayaan HUT RI. Diskusi-diskusi bermakna terjalin antara anggota kelompok dengan Pak RT, berbagi pandangan serta menggali ide-ide kreatif untuk menjadikan perayaan HUT RI kali ini lebih meriah dan bermakna bagi masyarakat Desa Lebakwangi.",
+            "p3": "Tidak hanya itu, kolaborasi yang sinergis juga terjalin dengan Karang Taruna RW 11. Kedua kelompok ini bertemu untuk menyusun proposal acara perayaan HUT RI ke-78 yang akan datang. Kerja sama ini menjadi salah satu pilar penting dalam memastikan bahwa acara perayaan tersebut berjalan dengan sukses. Dalam suasana penuh semangat, anggota KKN 15 Sisdamas dan Karang Taruna saling berbagi ide dan merencanakan berbagai kegiatan yang akan melibatkan masyarakat desa.", 
+            "p4": "Perayaan HUT RI di Desa Lebakwangi bukan hanya menjadi ajang perayaan semata, tetapi juga menjadi panggung bagi semangat persatuan dan kebersamaan antara kelompok mahasiswa KKN dan warga desa. Dengan kolaborasi yang berjalan baik, diharapkan perayaan HUT RI ke-78 ini akan menjadi momen bersejarah yang meriah dan penuh makna, memperkuat hubungan sosial serta memupuk semangat cinta tanah air."
+                }
+},
+
+
+
+{
+    "hari" : "7",
+    "judul" : " Koordinasi Bersama PEMDES Lebakwangi dan di Lanjut Bersama Karang Taruna ",
+    "tanggal" : "17/07/2023",
+    "img" : "7.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 17/07/2023 Mahasiswa Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung terus mengambil peran aktif dalam mempersiapkan perayaan Hari Ulang Tahun Republik Indonesia ke-78 (HUT RI ke-78) di Desa Lebakwangi, Kecamatan Arjasari, Kabupaten Bandung. Dalam rangka memastikan keberlangsungan acara yang meriah dan berkesan, kami tidak hanya hadir dalam rapat perangkat desa, tetapi juga turut serta dalam berbagai aspek persiapan.",
+            "p2": "Rapat ini di hadiri oleh KKN kelompok 13, 14, 15 serta bersama perangkat desa. Rapat tersebut merupakan tindak lanjut dari undangan untuk membahas berbagai kegiatan yang akan digelar dalam rangka HUT RI ke-78. Dalam pertemuan ini kami bersama-sama berdiskusi mengenai program apa yang akan diadakan serta cara terbaik untuk merayakan momen bersejarah tersebut dengan meriah dan bermakna.",
+            "p3": "Tidak hanya itu, anggota kelompok KKN juga turut berpartisipasi dalam kepanitiaan acara HUT RI, Ini menjadi bentuk kontribusi nyata mahasiswa dalam mendukung persiapan acara yang melibatkan seluruh komponen masyarakat desa, termasuk Karang Taruna yang juga menjadi bagian penting dari penyelenggaraan.",
+            "p4": "Malam harinya, semangat kolaborasi dan produktivitas kelompok KKN Sisdamas tetap terjaga. Setelah menjalankan serangkaian kegiatan, kami melanjutkan dengan makan malam bersama. Dalam suasana yang akrab, kami berbagi cerita dan pengalaman sepanjang hari, mempererat ikatan antaranggota kelompok. Setelah itu, dilakukan evaluasi harian terhadap kegiatan yang telah dilakukan sepanjang hari. Hal ini menjadi langkah penting untuk memastikan bahwa setiap langkah yang diambil mendekati tujuan yang diinginkan."
+                }
+},
+
+
+
+{
+    "hari" : "8",
+    "judul" : " Kerjasama Mahasiswa KKN dan Perangkat Desa: Persiapan Puncak Perayaan Gerak Jalan HUT RI ke-78 ",
+    "tanggal" : "18/07/2023",
+    "img" : "8.jpg" ,
+    "konten" : {
+ 	        "p1" : "Desa Lebakwangi, 18/07/2023 Semangat persiapan perayaan Hari Ulang Tahun Republik Indonesia (HUT RI) ke-78 semakin mendominasi aktivitas di Desa Lebakwangi. Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung terus membuktikan keterlibatan dan peran aktifnya dalam memeriahkan HUT RI tersebut.",
+            "p2": "Seperti biasa, mahasiswa KKN Sisdamas turut berbaur dalam piket di kantor desa. Kehadiran kami tidak hanya sebagai kontribusi nyata dalam membantu kelancaran operasional kantor, tetapi juga sebagai wujud integrasi dan keterlibatan aktif dalam kegiatan komunitas desa. Kami menjalankan tugas dengan penuh tanggung jawab, mengedepankan semangat gotong royong.",
+            "p3": "Namun, hari itu bukanlah sekadar rutinitas piket. Kelompok 15 KKN Sisdamas bersama kelompok 13 dan 14, serta didukung oleh Pak Diki sebagai Kadus 1, menggelar rapat gabungan yang menggembirakan. Rapat ini memiliki tujuan penting dalam persiapan perayaan gerak jalan, salah satu acara yang akan memeriahkan HUT RI ke-78. Dalam suasana akrab dan semangat kolaboratif, kami berdiskusi dan merencanakan dengan seksama setiap detail perayaan yang akan datang.",
+            "p4": "Gerak jalan menjadi simbol vitalitas dan semangat bersama dalam merayakan kemerdekaan. Melalui persiapan yang matang dan koordinasi yang baik, diharapkan perayaan gerak jalan HUT RI ke-78 akan memberikan kesan tak terlupakan bagi masyarakat Desa Lebakwangi serta menjadi bentuk penghormatan terhadap perjuangan para pahlawan dan nilai-nilai luhur bangsa. Semangat kolaboratif antara mahasiswa KKN Sisdamas dan seluruh elemen masyarakat Desa Lebakwangi diharapkan akan semakin mengukuhkan tekad bersama dalam mewujudkan peringatan HUT RI yang meriah dan bermakna."
+                }
+},
+
+
+{
+    "hari" : "9",
+    "judul" : " Rapat Lanjutan Persiapan HUT RI dan Menghadiri Undangan Muharram ",
+    "tanggal" : "19/07/2023",
+    "img" : "9.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 19/07/2023 Mahasiswa perwakilan dari Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung, memperlihatkan semangat dan keterlibatan aktif dalam persiapan perayaan Hari Ulang Tahun Republik Indonesia ke-78 (HUT RI ke-78) serta merangkul kekayaan budaya lokal dengan menghadiri acara muharram di wilayah RW 03.",
+            "p2": "Rapat persiapan perlombaan HUT RI ke-78 menjadi agenda utama bagi perwakilan kelompok 15 KKN Sisdamas. Diadakan di Balai Desa Lebakwangi, rapat tersebut bertujuan untuk menyusun rencana matang dan memastikan setiap persiapan berjalan lancar. Dengan penuh antusiasme, mahasiswa mengoordinasikan langkah-langkah praktis yang diperlukan agar acara tersebut menjadi sukses dan berkesan.",
+            "p3": "Selanjutnya, semangat kolaborasi dan sinergi terlihat saat kelompok 15 KKN Sisdamas bergabung dengan kelompok 13 dan 14 dalam rapat bersama. Agenda ini dimaksudkan untuk mendiskusikan dengan lebih mendalam tentang perlombaan HUT RI ke-78. Dalam suasana yang penuh kebersamaan, mahasiswa dari ketiga kelompok saling berbagi pandangan, ide, dan usulan untuk menghadirkan perayaan yang menggugah semangat nasionalisme dan kebersamaan di tengah masyarakat Desa Lebakwangi.",
+            "p4": "Di sela persiapan-persiapan itu, perwakilan dari kelompok 15 KKN Sisdamas juga meluangkan waktu untuk bergabung dalam perayaan muharram di wilayah RW 03. Muharram, sebagai bulan pertama dalam kalender Hijriah, memiliki makna yang khusus dalam budaya dan tradisi Islam. Mahasiswa dengan antusias menyatu dalam acara ini, mengamati dan turut merasakan atmosfer religius dan budaya yang kental."
+                }
+},
+
+
+{
+    "hari" : "10",
+    "judul" : " Musyawarah Desa Bersama Kelompok 13, 14, 15, para Ketua Rukun Warga (RW), serta perangkat desa lainnya untuk Persiapan HUT RI ke-78",
+    "tanggal" : "20/07/2023",
+    "img" : "10.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 20/07/2023 - Semangat persiapan memperingati Hari Ulang Tahun Republik Indonesia (HUT RI) ke-78 semakin terasa menghangat di Desa Lebakwangi. Kolaborasi berlangsung harmonis antara Kelompok KKN 13, 14, dan 15, para Ketua Rukun Warga (RW), serta perangkat desa lainnya.",
+            "p2": "Momentum penting ini ditandai dengan musyawarah desa yang dihadiri oleh berbagai pihak yang memiliki peran dalam mempersiapkan perayaan HUT RI ke-78. Mahasiswa KKN dari ketiga kelompok, bersama dengan para Ketua RW dan perangkat desa, berkumpul untuk membahas rencana dan detail perayaan yang akan datang. Dalam suasana yang akrab dan penuh semangat, ide-ide kreatif dan solusi terbaik disampaikan, menggambarkan komitmen semua pihak dalam membuat perayaan ini meriah dan bermakna.",
+            "p3": " Selain musyawarah desa, kolaborasi yang erat juga terlihat dalam kegiatan piket yang dilakukan oleh perwakilan dari Kelompok 15. Setiap harinya, mereka secara bergantian meluangkan waktu untuk melakukan piket di kantor Desa Lebakwangi. Tugas-tugas piket melibatkan pelayanan administrasi masyarakat dan penginputan data. Ini menjadi bagian penting dalam memastikan bahwa segala proses administratif berjalan dengan lancar, terutama dalam persiapan perayaan HUT RI ke-78.",
+            "p4": "Kolaborasi yang kuat antara mahasiswa KKN, perangkat desa, dan masyarakat Desa Lebakwangi menjadi bukti nyata semangat gotong royong dalam merayakan momen penting bagi bangsa. Dengan semua langkah persiapan yang dilakukan secara sinergis, diharapkan perayaan HUT RI ke-78 akan memberikan kesan positif dan semangat nasionalisme yang semakin mendalam, memupuk persatuan serta menggugah rasa cinta tanah air."
+                }
+},
+
+
+{
+    "hari" : "11",
+    "judul" : " Mahasiswa KKN Kelompok 15 Berdayakan Masyarakat Melalui Kegiatan Edukatif dan Administratif",
+    "tanggal" : "21/07/2023",
+    "img" : "11.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 21/07/2023 - Dalam semangat penuh dedikasi, Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung terus menjalankan peran pentingnya dalam masyarakat. Kami mengunjungi SDN 01 Lebakwangi untuk meminta perizinan mengajar, sambil tetap melanjutkan tugas rutin piket di kantor Desa Lebakwangi.",
+            "p2": "Langkah pertama dalam rangkaian aktivitas kami mendatangi SDN 01 Lebakwangi untuk meminta izin mengajar. Dalam upaya untuk memberikan kontribusi nyata dalam bidang pendidikan, kami berinisiatif untuk berbagi ilmu dan wawasan kepada siswa-siswa di SD setempat. Dengan begitu kami berharap bisa memberikan dampak positif dan menanamkan semangat belajar kepada generasi muda.",
+            "p3": " Setelah mendatangi sekolah, aktivitas produktif kami tak berhenti sampai sana, kami selanjutnya perwakilan dari kelompok 15 melakukan piket Desa. Dalam piket di kantor Desa Lebakwangi, mahasiswa KKN Kelompok 15 mengambil peran sebagai staf administrasi di bagian pelayanan masyarakat. Tugas kami melibatkan penginputan data dan dukungan dalam menjalankan proses administratif di kantor desa.",
+            "p4": "Melalui aktivitas tersebut, kami mahasiswa kelompok KKN 15 menunjukkan peran penting mereka sebagai agen perubahan di tengah masyarakat. Dengan melibatkan diri dalam pendidikan dan administrasi, mereka tidak hanya membantu dalam operasional harian, tetapi juga membantu membangun pondasi pendidikan dan pelayanan yang lebih baik untuk masa depan Desa Lebakwangi. Semangat mereka dalam memberikan manfaat positif bagi masyarakat terus memberikan inspirasi dan contoh nyata kontribusi mahasiswa dalam pembangunan berkelanjutan."
+                }
+},
+
+
+{
+    "hari" : "12",
+    "judul" : " Mahasiswa KKN Sisdamas Menyatu dengan Pendidikan dan Kolaborasi untuk Persiapan HUT RI ke-78",
+    "tanggal" : "22/07/2023",
+    "img" : "12.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 22/07/2023 - Semangat belajar dan kolaborasi terus berkobar dalam perjalanan Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung. Kami menjalani pengalaman berharga dalam dunia pendidikan dan menggelar rapat bersama untuk mempersiapkan perayaan Hari Ulang Tahun Republik Indonesia (HUT RI) ke-78.",
+            "p2": "Pagi itu, mahasiswa KKN Kelompok 15 memasuki ruang-ruang kelas di Sekolah Dasar Negeri (SDN) Lebakwangi 01 untuk menentukan di kelas mana saja kita mengajar serta dengan jadwal mengajar. Setelah berkoordinasi dengan kepala sekolah dan guru-guru, mereka diizinkan untuk memberikan pembelajaran di kelas 2, 4, dan 5 dengan kurikulum yang berbeda. Di kelas 2 dan 5, mereka mengikuti kurikulum tahun 2013, sementara di kelas 4, kurikulum Merdeka telah diterapkan.",
+            "p3": " Dalam berbagai kelas tersebut, total 133 siswa dihadapkan pada pelajaran dan interaksi yang penuh inspirasi. Kelompok 15 dengan antusias memperkenalkan diri kepada para siswa dan guru-guru, membawa semangat belajar yang menyenangkan. Sebagai agen perubahan, mereka memberikan wawasan dan pengetahuan yang bermanfaat kepada para siswa, sekaligus mengamati langsung kondisi pendidikan di wilayah tersebut.",
+            "p4": "Pukul 11.30 WIB, setelah berjam-jam mengajar, kegiatan di SDN Lebakwangi 01 berakhir. Namun, semangat kami masih terus menyala. Kelompok 15 melanjutkan agenda penting lainnya dengan mengadakan rapat lanjutan bersama kelompok 13 dan 14. Rapat tersebut memiliki tujuan untuk menyatukan visi dan persiapan yang lebih detail dalam menyambut perayaan HUT RI ke-78 yang semakin mendekat.",
+            "p5": "Melalui perjalanan bersejarah ini, mahasiswa KKN Sisdamas bukan hanya memberikan pengajaran berharga bagi para siswa, tetapi juga menggugah semangat belajar dan kebersamaan dalam persiapan perayaan kemerdekaan. Dengan tekad kuat, mereka terus membuktikan bahwa kontribusi nyata dan semangat kolaboratif adalah kunci dalam membangun masa depan yang lebih baik."
+
+                }
+},
+
+
+{
+    "hari" : "13",
+    "judul" : " Sinergi Kelompok KKN Desa Lebakwangi dalam Persiapan Meriahkan 17 Agustus Semakin Terarah",
+    "tanggal" : "23/07/2023",
+    "img" : "13.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 23/07/2023 - Semangat kolaborasi dan persiapan menyambut perayaan Hari Kemerdekaan Republik Indonesia (HUT RI) ke-78 semakin menghangat di Desa Lebakwangi. Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas bersama perwakilan dari Kelompok 13 dan 14 KKN menggelar rapat gabungan yang selanjutnya. Pertemuan tersebut dilakukan di posko KKN Kelompok 13, menjadi bukti nyata sinergi mereka dalam mempersiapkan rangkaian acara 17 Agustus yang meriah.",
+            "p2": "Rapat gabungan kali ini mengambil peran penting dalam menjalin koordinasi dan mengevaluasi progres persiapan acara 17 Agustus di Desa Lebakwangi. Dalam suasana akrab dan kolaboratif, perwakilan dari masing-masing kelompok KKN melaporkan hasil-hasil yang telah dicapai. Diskusi ini menjadi panggung bagi berbagi informasi, memastikan bahwa semua persiapan telah berjalan sesuai rencana, dan merencanakan langkah-langkah selanjutnya.",
+            "p3": " Salah satu hasil diskusi yang signifikan adalah mengenai progress perlombaan yang telah berlangsung, seperti senam, turnamen Mobile Legend, dan gerak jalan. Setiap penanggung jawab perlombaan telah menyusun gambaran kegiatan dalam bentuk rundown acara. Namun, masih diperlukan koordinasi lebih lanjut dengan pihak desa dan karang taruna desa untuk memastikan semua detail terpenuhi dengan baik.",
+            "p4": "Tidak hanya itu, dalam semangat penuh kreativitas, rencana tambahan turut dibahas dalam rapat ini. Salah satu di antaranya adalah kehadiran mojang jajaka dari setiap Rukun Warga (RW) di desa Lebakwangi. Rencana ini diharapkan akan semakin memeriahkan dan mewarnai perayaan 17 Agustus dengan nuansa budaya dan tradisi lokal.",
+            "p5": "Dengan semangat gotong royong dan kebersamaan yang kental, Kelompok 15 KKN Sisdamas dan kelompok 13 serta 14 KKN Desa Lebakwangi terus membuktikan bahwa peran mahasiswa dalam pembangunan masyarakat tidak hanya tentang kontribusi fisik, tetapi juga dalam memperkuat semangat kebersamaan dan menghormati nilai-nilai budaya lokal."
+                }
+},
+
+
+{
+    "hari" : "14",
+    "judul" : " Mahasiswa KKN kelompok 15 Berdayakan Pendidikan dan Dukung UMKM Menuju Sertifikasi Halal",
+    "tanggal" : "24/07/2023",
+    "img" : "14.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 24/07/2023 - Semangat edukatif dan kolaboratif terus mengalir dalam perjalanan Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung. Kelompok 15 mengawali pagi dengan mengajar di SDN Lebakwangi 01 dan berlanjut dengan pertemuan penting bersama Kelompok KKN Tematik Halal, yang membuka peluang dukungan bagi UMKM setempat dalam meraih sertifikasi halal.",
+            "p2": "Kegiatan dimulai pada pukul 07.00 WIB, dengan partisipasi aktif mahasiswa KKN dalam upacara bendera di halaman SDN Lebakwangi 01. Khidmatnya upacara terasa, dan siswa-siswa dengan penuh semangat menyanyikan lagu Indonesia Raya. Setelah upacara selesai, para mahasiswa memasuki kelas dengan semangat belajar dan mengajar di kelas-kelas yang telah ditentukan sebelumnya.",
+            "p3": " Namun, semangat belajar tidak berhenti di kelas. Pada pukul 14.00 WIB, kedatangan tamu dari Kelompok KKN Tematik Halal memberikan dimensi baru dalam perjalanan Kelompok 15. Dalam diskusi yang hangat dan penuh ide, Kelompok KKN Tematik Halal membagikan visi mereka dalam mendukung UMKM lokal menuju sertifikasi halal. Dalam kerjasama yang direncanakan, Kelompok 15 ditugaskan untuk mensosialisasikan program sertifikasi halal kepada para UMKM di Desa Lebakwangi.",
+            "p4": "Jika ada UMKM yang bersedia, Kelompok 15 akan membantu dalam pengumpulan data yang diperlukan. Proses selanjutnya akan dibantu oleh Kelompok KKN Tematik Halal. Ini adalah bukti konkret bagaimana mahasiswa KKN tidak hanya berperan dalam pendidikan, tetapi juga dalam mendukung perkembangan ekonomi lokal dengan memberikan bantuan dalam proses sertifikasi halal.",
+            "p5": "Dengan semangat belajar, kolaborasi, dan kontribusi nyata dalam masyarakat, Kelompok 15 KKN Sisdamas terus menorehkan cerita inspiratif dan membuktikan bahwa peran mahasiswa tidak terbatas pada ruang kelas, tetapi juga dalam mewujudkan dampak positif di tengah masyarakat."
+                }
+},
+
+{
+    "hari" : "15",
+    "judul" : " Mahasiswa KKN 15 Terus Berkontribusi dalam Pendidikan dan Pelayanan Masyarakat",
+    "tanggal" : "25/07/2023",
+    "img" : "15.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 25/07/2023 - Semangat belajar, mengajar, dan berkontribusi nyata terus mengilhami perjalanan mahasiswa Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung di Desa Lebakwangi. Kelompok 15 mengawali pagi dengan mengajar di SDN Lebakwangi 01 dan melanjutkan dengan tugas penting dalam pelayanan administrasi masyarakat di kantor Desa Lebakwangi.",
+            "p2": "Pukul 07.00 WIB, para perwakilan dari mahasiswa kelompok 15 memasuki kelas 5 di SDN Lebakwangi 01, bersemangat untuk mengajar dan memfasilitasi pembelajaran. Dalam kurikulum yang digunakan, yaitu Kurikulum 2013, siswa diajak untuk memahami nilai-nilai Pancasila yang terkandung dalam sila-sila. Materi yang diajarkan memberikan pandangan yang lebih mendalam tentang fondasi moral dan ideologi bangsa Indonesia. Dengan penuh semangat, mereka menjalankan tugas pendidikan dengan fokus dan kesungguhan.",
+            "p3": " Pada pukul 08.00 WIB, perwakilan dari mahasiswa kelompok 15 juga bertugas ke kantor Desa Lebakwangi. Di sana, para kami ditugaskan untuk menginput data dan menjadi staff di bagian pelayanan administrasi masyarakat. Salah satu dari mereka juga diberikan tugas khusus untuk membantu pendataan warga yang menerima bantuan sosial (bansos) di kecamatan. Dalam hal ini, Kelompok 15 ikut berperan dalam memastikan bahwa pelayanan publik berjalan dengan lancar dan efektif.",
+            "p4": "Dalam setiap langkah yang diambil, Kelompok 15 KKN Sisdamas terus membuktikan bahwa pendidikan dan pelayanan masyarakat adalah dua sisi penting dalam upaya membangun masyarakat yang berkualitas dan berdaya. Dengan semangat yang tinggi, mereka melangkah maju dalam perjalanan KKN yang penuh makna."
+                }
+},
+
+{
+    "hari" : "16",
+    "judul" : " Pemantauan Aktivitas KKN di Desa Lebakwangi: Dosen Pembimbing Lapangan dan Komitmen Mahasiswa",
+    "tanggal" : "26/07/2023",
+    "img" : "16.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 26/07/2023 - Kegiatan Kuliah Kerja Nyata (KKN) di Desa Lebakwangi terus mendapat sorotan dan dukungan dari berbagai pihak. Dosen pembimbing lapangan (DPL) turut melibatkan diri dalam memantau berjalannya KKN di wilayah tersebut. Pertemuan dengan perwakilan dari kelompok KKN Desa Lebakwangi di kantor Desa Lebakwangi menjadi ajang untuk berdiskusi dan memberikan update mengenai progres program KKN yang sedang berlangsung.",
+            "p2": "Pukul 09.00 WIB, suasana kantor Desa Lebakwangi menjadi saksi pertemuan penting ini. DPL dan perwakilan kelompok KKN berkumpul untuk berbicara tentang perkembangan yang telah dicapai selama perjalanan KKN. Pertukaran informasi ini tidak hanya menjadi kesempatan untuk memantau dan mengevaluasi, tetapi juga sebagai wujud dukungan penuh terhadap mahasiswa dalam menjalankan tanggung jawab mereka.",
+            "p3": " Pada waktu yang sama, di tempat lain di kantor Desa Lebakwangi, anggota Kelompok 15 KKN Sisdamas terus menjalankan tugasnya dalam pelayanan administrasi masyarakat. Tugas menginput data dan mendukung operasional kantor menjadi bagian yang turut dikerjakan dengan komitmen dan penuh tanggung jawab.",
+            "p4": "Selain kunjungan DPL, juga penting untuk mencatat bahwa ini merupakan kunjungan DPL yang kedua kali dalam perjalanan KKN mereka. Kehadiran DPL untuk kedua kalinya ini menunjukkan komitmen untuk terus memantau dan mendukung perjalanan KKN hingga akhir.",
+            "p5": "Dengan pemantauan dan dukungan yang terus mengalir, Kelompok 15 KKN Sisdamas Desa Lebakwangi terus melangkah maju dalam perjalanan penuh arti ini, mengabdi pada masyarakat dan membangun kualitas diri serta lingkungan sekitar."
+                }
+},
+
+
+{
+    "hari" : "17",
+    "judul" : " Kelompok 15 KKN Sisdamas Aktif di Desa Lebakwangi dalam Simulasi Belajar dan Kolaborasi Persiapan ",
+    "tanggal" : "27/07/2023",
+    "img" : "17.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 27/07/2023 - Semangat belajar yang kreatif terus mewarnai perjalanan Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas di Desa Lebakwangi, kami  kembali memasuki kelas SDN Lebakwangi 01 untuk menjalankan program belajar dan mengajar. Kegiatan kelas 4 kali ini membawa inovasi dengan integrasi kegiatan P5 (Projek Penguatan Profil Pelajar Pancasila) dalam kurikulum merdeka.",
+            "p2": "Pukul 08.00 WIB, suasana kelas 4 menjadi saksi perpaduan antara pembelajaran konvensional dan pendekatan inovatif. Menggunakan Kurikulum Merdeka, siswa kelas 4 diajak untuk terlibat dalam P5, yang pada kesempatan ini melibatkan praktek jual beli. Sebelumnya, siswa telah mempelajari tentang mata uang dan pecahan. Saat jadwal P5 dilaksanakan, siswa berperan sebagai pedagang dan konsumen dalam simulasi jual beli. Masing-masing kelompok siswa membuat menu makanan dengan harga yang tertera, menciptakan suasana belajar yang menyenangkan.",
+            "p3": " Pukul 18.30 WIB, suasana berpindah ke Cafe Batoe. Di tempat yang nyaman ini, kelompok 15 KKN Sisdamas bersama perwakilan dari kelompok 13, 14, dan Karang Taruna Desa Lebakwangi menggelar rapat gabungan yang ketiga. Agenda rapat ini masih berkaitan dengan persiapan acara 17 Agustus dalam rangka memperingati Hari Kemerdekaan Republik Indonesia.",
+            "p4": "Dalam diskusi ini, langkah-langkah persiapan untuk acara 17 Agustus semakin terperinci. Kelompok KKN akan berkolaborasi dengan Karang Taruna Desa Lebakwangi dalam melaksanakan berbagai lomba yang telah direncanakan. Namun, setelah pembahasan yang cermat, diputuskan untuk tidak melibatkan kegiatan mojang jajaka dalam rangkaian acara. Keputusan ini diambil setelah melalui diskusi dan pertimbangan bersama.",
+            "p5": "Dengan begitu banyak kegiatan yang melibatkan pendidikan dan keterlibatan masyarakat, Kelompok 15 KKN Sisdamas terus menunjukkan komitmennya dalam membangun kualitas masyarakat Desa Lebakwangi melalui pendidikan dan kolaborasi yang bermakna."
+                }
+},
+
+
+{
+    "hari" : "18",
+    "judul" : " Berdaya Cipta dan Kolaborasi: Kelompok 15 KKN Sisdamas Menyongsong Hari Kemerdekaan",
+    "tanggal" : "28/07/2023",
+    "img" : "18.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 28/07/2023 - Semangat belajar dan keterlibatan aktif kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas semakin terasa dalam setiap aktivitas yang mereka lakukan di Desa Lebakwangi, agenda belajar dan mengajar masih menjadi sorotan utama, sementara persiapan perayaan Hari Kemerdekaan Republik Indonesia (HUT RI) tetap menjadi fokus.",
+            "p2": "Pukul 07.00 WIB, kelompok 15 memasuki kelas 5 SDN Lebakwangi 01 dengan semangat. Dalam mata pelajaran IPS, siswa belajar tentang negara-negara anggota ASEAN, memperkaya wawasan mereka tentang hubungan antarnegara dalam kawasan. Kemudian, di mata pelajaran Matematika, fokus pembelajaran adalah pada penjumlahan pecahan, memberikan pemahaman praktis bagi siswa dalam dunia matematika.",
+            "p3": " Tak hanya di dalam kelas, kelompok 15 juga turut aktif dalam kolaborasi untuk persiapan perayaan HUT RI. Pukul 08.00 WIB, mereka berkumpul untuk rapat gabungan yang keempat, bersama perwakilan dari kelompok 13,  14, serta pihak Desa Lebakwangi yang diwakili oleh Bapak Diki. Ruang pertemuan berada di Kantor Desa Lebakwangi.",
+            "p4": "Rapat gabungan ini menjadi kesempatan untuk mengkaji ulang persiapan acara 17 Agustus. Dalam diskusi yang hangat, keputusan penting diambil untuk mengubah format kegiatan. Awalnya direncanakan tiga kegiatan perlombaan, yaitu senam, turnamen Mobile Legend, dan gerak jalan. Namun, setelah mendengarkan pendapat semua pihak, diputuskan untuk fokus pada gerak jalan saja.",
+            "p5": "Keputusan ini diambil setelah melalui diskusi yang matang dengan berbagai pertimbangan. Kami berharap gerak jalan dapat menjadi momen yang penuh makna dalam merayakan kemerdekaan kami. Dalam konteks pembelajaran dan kolaborasi nyata dengan masyarakat, Kelompok 15 KKN Sisdamas terus mengukir jejak positif di Desa Lebakwangi. Dengan semangat yang terus berkobar, mereka siap menjalani sisa perjalanan KKN dengan kontribusi dan dedikasi yang lebih besar lagi."
+                }
+},
+
+{
+    "hari" : "19",
+    "judul" : " Sinergi Perayaan 17 Agustus: Kelompok 15 KKN Sisdamas dan Karang Taruna Desa Lebakwangi RW 11",
+    "tanggal" : "29/07/2023",
+    "img" : "19.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 29/07/2023 - Semangat kerja sama dan kolaborasi terus menggeliat di Desa Lebakwangi dalam rangka mempersiapkan perayaan Hari Kemerdekaan Republik Indonesia yang semakin dekat, momentum sinergi antara Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dan Karang Taruna Desa Lebakwangi RW 11 semakin menguat.",
+            "p2": " Pukul 18.00 WIB, perwakilan dari Karang Taruna datang sebagai tamu istimewa ke tempat kediaman kelompok 15. Pertemuan ini dihadiri oleh anggota kelompok KKN serta perwakilan dari Karang Taruna, bertujuan untuk merencanakan dan membahas persiapan acara perayaan 17 Agustus di Desa Lebakwangi RW 11.",
+            "p3": " Dalam suasana yang akrab dan penuh semangat, kelompok KKN dan Karang Taruna membicarakan berbagai aspek penting terkait perayaan tersebut. Pembahasan difokuskan pada perbaikan proposal acara, yang merupakan panduan utama dalam penyelenggaraan kegiatan. Selain itu, aspek penggalangan dana juga menjadi topik penting dalam rapat tersebut.",
+            "p4": "Dalam semangat gotong royong, perwakilan dari Karang Taruna menawarkan kerjasama dalam hal pembiayaan acara. Tawaran ini mencerminkan kolaborasi yang erat antara kelompok KKN dan pemuda-pemudi Desa Lebakwangi, yang ingin memastikan bahwa perayaan kemerdekaan berjalan dengan sukses dan meriah.",
+            "p5": "Dengan semakin mendekatnya tanggal perayaan, kerja keras dan kolaborasi antara Kelompok 15 KKN Sisdamas dan Karang Taruna semakin terasa. Diharapkan, sinergi ini akan memberikan dampak positif yang nyata dalam mewujudkan acara perayaan 17 Agustus yang berkesan dan bermakna bagi masyarakat Desa Lebakwangi."
+                }
+},
+
+
+{
+    "hari" : "20",
+    "judul" : " Rute Gerak Jalan Perayaan 17 Agustus Telah Dikonfirmasi dalam Survey Bersama",
+    "tanggal" : "30/07/2023",
+    "img" : "20.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 30/07/2023 - Kesiapan dalam menyambut perayaan Hari Kemerdekaan Republik Indonesia (HUT RI) ke-78 semakin terasa di Desa Lebakwangi. Pukul 11.00 WIB, langkah konkret dilakukan oleh tim pelaksana dengan melaksanakan survey rute untuk kegiatan utama, yaitu Gerak Jalan, yang akan menjadi bagian kemeriahan perayaan.",
+            "p2": " Kegiatan survey rute ini melibatkan berbagai pihak yang terkait, termasuk perwakilan dari Desa Lebakwangi serta mahasiswa Kuliah Kerja Nyata (KKN) dari berbagai kelompok. Penuh semangat, mereka berkumpul untuk merencanakan dan memastikan rute yang akan dilewati oleh peserta Gerak Jalan pada perayaan 17 Agustus mendatang.",
+            "p3": " Bertempat di gor Desa Lebakwangi, pertemuan dimulai dengan pembagian tugas dan diskusi antara semua pihak yang hadir. Dengan peta dan rincian terperinci, mereka menyusun rute yang menarik dan bermakna, sekaligus memastikan kenyamanan dan kelancaran peserta dalam mengikuti kegiatan ini.",
+            "p4": "Rute Gerak Jalan yang telah disepakati adalah sebagai berikut: dimulai dari gor Desa Lebakwangi, para peserta akan melewati RW 13 dengan pemandangan sekitar yang menawan, kemudian melanjutkan perjalanan menuju Arjasari Rockhill yang memberikan pemandangan alam yang memukau. Selanjutnya, rute akan berlanjut ke RW 14 dan melalui sentral Desa Lebakwangi sebelum akhirnya finis kembali di gor Desa Lebakwangi.",
+            "p5": "Dengan rute yang telah dikonfirmasi dan disepakati bersama, persiapan menuju perayaan 17 Agustus semakin matang. Semangat kerja sama dan kebersamaan yang ditunjukkan oleh seluruh pihak diharapkan akan menghasilkan acara yang meriah dan bermakna bagi masyarakat Desa Lebakwangi."
+                }
+},
+
+{
+    "hari" : "21",
+    "judul" : " Mahasiswa KKN Kelompok 15 Terus Berkarya di SDN Lebakwangi 01 dan Rencanakan Gerak Jalan Perayaan 17 Agustus ",
+    "tanggal" : "31/07/2023",
+    "img" : "21.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 31/07/2023 - Semangat belajar dan berkontribusi dari Kelompok 15 Mahasiswa Kuliah Kerja Nyata (KKN) Sisdamas dari Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung terus terpancar di Desa Lebakwangi. Kami melanjutkan program mengajar di SDN Lebakwangi 01, melibatkan kelas 2 dan kelas 5 dalam kegiatan edukatif yang penuh makna.",
+            "p2": " Dimulai dari pukul 09.00 WIB, kelompok KKN ini memasuki ruang kelas 2 yang juga berfungsi sebagai ruang kelas 1. Sebelum memasuki kelas, mereka menemui anak-anak dengan antusiasme di perpustakaan, di mana para murid kelas 2 membaca buku sebelum pelajaran dimulai. Begitu ruang kelas tersedia, mereka menyampaikan materi TEMA kepada kurang lebih 40 murid dengan penuh semangat.",
+            "p3": " Tidak hanya memberikan pelajaran, kami juga menerapkan metode pembelajaran yang interaktif dengan bermain cerdas cermat. Pembagian kelompok berdasarkan baris meja membuat suasana ruang kelas semakin hidup dan penuh semangat belajar. Para murid aktif berpartisipasi, memberikan jawaban-jawaban cerdas dengan penuh antusiasme.",
+            "p4": "Pada bagian lain, di tengah hari setelah waktu dzuhur, kami  ini mengadakan rapat gabungan bersama kelompok KKN lainnya di Desa Lebakwangi, yaitu kelompok 13 dan 14. Rapat tersebut membahas rencana program gabungan, termasuk kerja sama dengan Karang Taruna Desa Lebakwangi, terkait acara Gerak Jalan yang akan diadakan pada tanggal 13 Agustus mendatang.",
+            "p5": "Dengan semangat tinggi dan dedikasi yang terus berkobar, Kelompok 15 KKN Sisdamas UIN Sunan Gunung Djati Bandung terus berusaha memberikan dampak positif dan mengambil peran aktif dalam pengembangan pendidikan dan budaya di Desa Lebakwangi."
+                }
+},
+
+{
+    "hari" : "22",
+    "judul" : " Kreativitas dalam Belajar: Mahasiswa KKN Kelompok 15 Mengajar Matematika Melalui Lagu di SDN Lebakwangi 01",
+    "tanggal" : "01/08/2023",
+    "img" : "22.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 01/08/2023 - Mahasiswa dari Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung terus menunjukkan inovasi dan semangat dalam memberikan pendidikan kepada anak-anak SDN Lebakwangi 01. Pada hari Selasa ini, mereka melaksanakan sesi mengajar kelas 5 dengan metode yang unik dan menyenangkan.",
+            "p2": " Dimulai pukul 07.00 WIB hingga 12.00 WIB, para mahasiswa KKN ini memimpin kelas 5 dengan fokus pada pelajaran matematika tentang pecahan. Namun, yang membuat sesi ini istimewa adalah penggunaan lagu sebagai alat pembelajaran. Dengan mengiringi materi dengan lirik lagu yang ceria dan mengasyikkan, anak-anak di kelas dapat lebih mudah memahami konsep-konsep matematika yang kompleks.",
+            "p3": " Tidak hanya mengajar di sekolah, para mahasiswa KKN juga turut ambil bagian dalam kegiatan pelayanan administrasi di kantor Desa Lebakwangi. Pada pukul 08.00 WIB, salah satu anggota kelompok melakukan piket di kantor desa, bekerja sama dengan kelompok 13 dan 14. Tugas mereka adalah membantu bagian pelayanan desa dengan menginput data warga yang masuk dan keluar dari desa. Data ini memiliki peranan penting dalam menghitung jumlah penduduk secara berkala.",
+            "p4": "Dengan kombinasi antara metode pembelajaran kreatif di sekolah dan kontribusi dalam tugas-tugas administratif di desa, Kelompok 15 KKN Sisdamas UIN Sunan Gunung Djati Bandung terus menunjukkan semangat dan dedikasi mereka dalam mendukung pendidikan dan masyarakat di Desa Lebakwangi."
+                }
+},
+
+
+
+{
+    "hari" : "23",
+    "judul" : " Pentingnya Data dan Keterlibatan dalam Kegiatan Sosial: Mahasiswa KKN Kelompok 15 Bergerak Aktif di Desa Lebakwangi ",
+    "tanggal" : "02/08/2023",
+    "img" : "23.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 02/082023 - Mahasiswa dari Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung terus menunjukkan komitmennya dalam membantu masyarakat Desa Lebakwangi. Pada hari Rabu ini, mereka terlibat dalam sejumlah kegiatan yang berfokus pada pendataan dan pemberian dukungan kepada pelaku UMKM serta persiapan acara keagamaan yang meriah.",
+            "p2": " Pagi hari dimulai dengan kegiatan di kantor desa Lebakwangi, di mana para mahasiswa KKN membantu dalam menginput data warga yang akan mendapatkan bantuan dari pemerintah. Dengan teliti, mereka mencatat nama, tempat tinggal, dan melampirkan foto KTP warga yang berhak menerima bantuan ini. Upaya ini adalah bagian dari kerja sama antara kelompok KKN dan pemerintah desa dalam memastikan bahwa bantuan tepat sasaran dan dapat diberikan kepada yang membutuhkan.",
+            "p3": " Sore harinya, semangat mahasiswa KKN tidak surut. Mereka menjalankan inisiatif untuk mencari pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) yang berminat dalam membuat sertifikat halal untuk produk mereka. Para mahasiswa berkeliling desa dengan tawaran sertifikasi halal gratis kepada pelaku UMKM di sekitar Lebakwangi. Langkah ini tidak hanya mendukung UMKM dalam memenuhi persyaratan sertifikasi halal, tetapi juga membantu mempromosikan produk lokal yang berkualitas dan terpercaya.",
+            "p4": "Malam harinya, kebersamaan kembali terasa saat kelompok KKN ini mengadakan rapat bersama dengan Karang Taruna RW 11. Pertemuan ini diadakan di balai RW 11 dan membahas teknis perlombaan keagamaan yang akan diadakan dalam rangka menyambut perayaan Hari Kemerdekaan Indonesia yang ke-78. Diskusi yang konstruktif ini adalah contoh nyata kolaborasi antara mahasiswa KKN dan elemen masyarakat setempat untuk menyelenggarakan acara yang meriah dan berkesan.",
+            "p5": "Melalui berbagai kegiatan yang beragam dan berdaya guna, Kelompok 15 KKN Sisdamas UIN Sunan Gunung Djati Bandung terus berkontribusi dalam pengembangan desa dan memberikan dampak positif kepada masyarakat Desa Lebakwangi."
+                }
+},
+
+{
+    "hari" : "24",
+    "judul" : " Keterlibatan Mahasiswa KKN Sisdamas dalam Pendidikan dan Kesehatan di Desa Lebakwangi",
+    "tanggal" : "03/08/2023",
+    "img" : "24.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 03/08/2023 - Mahasiswa dari Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung terus memberikan kontribusi yang berarti bagi masyarakat Desa Lebakwangi. Kami terlibat aktif dalam kegiatan pendidikan dan kesehatan di berbagai wilayah desa.",
+            "p2": " Pagi hari dimulai dengan kegiatan mengajar di SDN Lebakwangi 01. Dalam kelas dengan kurang lebih 40 siswa, mahasiswa KKN dengan penuh semangat berbagi pengetahuan dan memberikan materi yang bermanfaat. Dengan suasana yang interaktif, mereka berinteraksi dengan siswa untuk memastikan pemahaman yang baik terhadap pelajaran yang disampaikan.",
+            "p3": " Sementara itu, di kantor desa, salah satu anggota kelompok terlibat dalam proses penginputan data warga. Tugas ini tidak hanya membantu dalam mengelola data penduduk secara efektif, tetapi juga memberikan gambaran yang akurat tentang jumlah penduduk desa setiap bulannya. Upaya ini merupakan bagian dari kolaborasi antara kelompok KKN dan pihak desa dalam menjaga dan memelihara data yang penting.",
+            "p4": "Tidak hanya di bidang pendidikan, mahasiswa KKN juga turut berperan dalam sektor kesehatan. Salah satu anggota kelompok bergabung dengan kegiatan Posyandu Mekar Melati yang diadakan di Kampung Kabuyutan RW 03, Dusun Lebakwangi. Di sana, mereka membantu dalam pengukuran tinggi badan dan berat badan anak-anak, serta pemeriksaan rutin untuk ibu hamil yang dilakukan oleh bidan. Data yang terkumpul kemudian direkap dengan seksama untuk pemantauan kesehatan balita dan ibu hamil di wilayah tersebut.",
+            "p5": "Dengan berbagai inisiatif yang dilakukan, Kelompok 15 KKN Sisdamas terus menunjukkan komitmen dan keterlibatan yang nyata dalam membangun dan mendukung berbagai aspek kehidupan masyarakat Desa Lebakwangi."
+                }
+},
+
+
+{
+    "hari" : "25",
+    "judul" : " KKN Kelompok 15 dan Karangtaruna Bersatu untuk Lomba Keagamaan ",
+    "tanggal" : "04/08/2023",
+    "img" : "25.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 04/08/2023 - Semangat kemerdekaan terus berkobar di Desa Lebakwangi melalui kolaborasi antara Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dan Karangtaruna RW 11. Kami  bersama-sama mempersiapkan lomba keagamaan untuk anak-anak sebagai bagian dari rangkaian peringatan hari kemerdekaan Indonesia yang ke-78.",
+            "p2": " Pagi itu, mahasiswa KKN Kelompok 15 memasuki ruang kelas 5 di SDN Lebakwangi 01. Dalam suasana yang penuh semangat, mereka mengajarkan materi TEMA kepada 44 siswa yang antusias mengikuti pembelajaran. Dengan antusiasme yang tinggi, para siswa berpartisipasi aktif dalam pembelajaran, menunjukkan semangat belajar yang luar biasa.",
+            "p3": " Namun semangat kemerdekaan tidak hanya berhenti di dalam ruang kelas. Karangtaruna RW 11 bersama dengan Kelompok 15 KKN Sisdamas berkolaborasi untuk menyelenggarakan lomba keagamaan untuk anak-anak. Dalam persiapan yang intensif, mereka memastikan segala sesuatunya berjalan lancar dan meriah.",
+            "p4": "Dalam persiapan tersebut, mahasiswa KKN dan Karangtaruna turut berperan dalam menyusun soal, menyiapkan kertas jawaban, mencetak kaligrafi, dan membungkus hadiah bagi para juara. Semua upaya ini dilakukan dengan tekun dan penuh semangat untuk menciptakan suksesnya lomba keagamaan.",
+            "p5": " Kolaborasi yang erat antara Kelompok 15 KKN Sisdamas dan Karangtaruna RW 11 membuktikan semangat kebersamaan dalam merayakan kemerdekaan dan memperkuat nilai-nilai keagamaan di Desa Lebakwangi."
+                }
+},
+
+
+{
+    "hari" : "26",
+    "judul" : " Anak-Anak Desa Lebakwangi Memperlihatkan Semangat Juang ",
+    "tanggal" : "05/08/2023",
+    "img" : "26.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 05/08/2023 - Semangat kebersamaan dan semarak kemerdekaan terus membara di Desa Lebakwangi. Anak-anak desa menunjukkan semangat juang yang luar biasa dalam lomba keagamaan yang diadakan dengan kerjasama antara Kelompok 15 Kuliah Kerja Nyata (KKN) Sisdamas dan Karangtaruna RW 11.",
+            "p2": " Pagi itu, seperti biasa kami mengajar di SDN Lebakwangi 01, anak-anak kelas 2 berkumpul dengan semangat untuk belajar membaca dan menggambar. Dalam suasana yang penuh keceriaan, kami saling berbagi dan belajar satu sama lain.",
+            "p3": " Namun semangat anak-anak desa tak berhenti di dalam ruang kelas saja. Di siang harinya, di Balai RW 11, lomba keagamaan yang telah dirancang dengan cermat berlangsung. Acara tersebut melibatkan tiga cabang lomba, yaitu tahfidz (menghafal Al-Quran), kaligrafi, dan ranking 1. Anak-anak madrasah desa berpartisipasi dalam lomba tersebut dengan antusiasme yang sangat baik.",
+            "p4": "Dalam cabang tahfidz dan kaligrafi, peserta menunjukkan keterampilan dan upaya mereka dalam menghafal Al-Quran dan menulis kaligrafi dengan indah. Sedangkan dalam cabang ranking 1, anak-anak beradu dalam berbagai pertanyaan dan tugas yang menguji pengetahuan agama mereka. Semangat dan kejujuran terpancar dalam setiap langkah mereka.",
+            "p5": " Semarak lomba keagamaan ini tak hanya memperlihatkan semangat anak-anak desa dalam menunjukkan keterampilan keagamaan mereka, tetapi juga semangat kebersamaan dan kerjasama yang menjadi ciri khas Desa Lebakwangi."
+                }
+},
+
+
+{
+    "hari" : "27",
+    "judul" : " Mahasiswa KKN Desa Lebakwangi Bergotong Royong Persiapkan Lomba Gerak Jalan",
+    "tanggal" : "06/08/2023",
+    "img" : "27.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 06/08/2023 - Semangat persiapan untuk perayaan Hari Kemerdekaan Republik Indonesia yang ke-78 semakin menggelora di Desa Lebakwangi. Pada hari Minggu pagi, tepatnya pukul 10.00 WIB, perwakilan dari setiap kelompok KKN 13, 14, dan 15 beserta Bapak Kadus Desa Lebakwangi berkumpul dalam sebuah pertemuan rapat yang strategis.",
+            "p2": " Pertemuan ini diinisiasi untuk mengkoordinasikan dan mempersiapkan lomba gerak jalan yang akan menjadi salah satu puncak perayaan HUT RI di desa ini. Dalam ruang rapat yang penuh semangat dan energi positif, para perwakilan kelompok serta Bapak Kadus berdiskusi tentang berbagai aspek yang terkait dengan lomba tersebut.",
+            "p3": " Dalam pertemuan yang khidmat, kami membahas berbagai hal mulai dari rincian teknis pelaksanaan, rute yang akan ditempuh, hingga peraturan dan panduan bagi para peserta. Segala persiapan yang diperlukan untuk memastikan suksesnya lomba gerak jalan turut didiskusikan dengan cermat.",
+            "p4": "Bapak Diki sebagai Kadus Desa Lebakwangi juga memberikan arahan dan dukungan penuh terhadap persiapan lomba gerak jalan ini. Ia menekankan pentingnya kerjasama dan semangat kebersamaan dalam melaksanakan setiap tahapan persiapan hingga pelaksanaan lomba itu sendiri.",
+            "p5": " Dengan persiapan yang matang dan semangat yang tinggi, warga Desa Lebakwangi semakin siap untuk menggelar perayaan yang meriah dan penuh makna dalam rangka memperingati Hari Kemerdekaan Republik Indonesia yang ke-78."
+                }
+},
+
+{
+    "hari" : "28",
+    "judul" : " Mahasiswa KKN 15 Lanjutkan Dukungan kepada Pelaku UMKM dan Pelayanan Desa",
+    "tanggal" : "07/08/2023",
+    "img" : "28.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 07/08/2023 - Semangat Kelompok KKN dari Desa Lebakwangi terus berkobar dalam memberikan dukungan nyata kepada masyarakat desa, terutama kepada pelaku Usaha Mikro, Kecil, dan Menengah (UMKM). Kami melanjutkan dengan melakukan berbagai kegiatan yang bermanfaat bagi perkembangan ekonomi dan pelayanan desa.",
+            "p2": " Pagi hari dimulai dengan membantu pegawai desa dalam penginputan data. Dari jam 08.00 WIB, para mahasiswa KKN dengan penuh semangat menyatukan tenaga untuk membantu proses administrasi di kantor desa. Proses penginputan data yang biasa dilakukan oleh pegawai desa menjadi lebih lancar dan cepat berkat kolaborasi ini.",
+            "p3": " Namun semangat kami tak berhenti di situ. Pada sore hari, kelompok ini melanjutkan agenda dengan mengunjungi salah satu pelaku UMKM di Desa Lebakwangi. Tujuan utama kunjungan ini adalah untuk menawarkan pelaku UMKM sertifikasi halal terkait produk yang dihasilkan.",
+            "p4": "Salah satu pelaku UMKM yang dikunjungi adalah pengusaha kerupuk, yang sudah dikenal di desa sebagai produsen kerupuk yang lezat. Dalam kunjungan tersebut, tim KKN memberikan penjelasan tentang manfaat dan pentingnya sertifikasi halal dalam meningkatkan kepercayaan konsumen terhadap produk. Tidak hanya memberikan informasi, mereka juga berdiskusi tentang proses sertifikasi dan langkah-langkah yang harus diambil.",
+            "p5": " Dengan aksi yang terus berkelanjutan, Kelompok KKN Desa Lebakwangi tidak hanya memberikan pendidikan dan edukasi, tetapi juga berperan aktif dalam mendukung perekonomian lokal dan kesejahteraan masyarakat desa."
+                }
+},
+
+{
+    "hari" : "29",
+    "judul" : " Mahasiswa KKN Lebakwangi Terus Berbagi Ilmu dan Berkontribusi dalam Pembangunan Desa",
+    "tanggal" : "08/08/2023",
+    "img" : "29.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 08/08/2023 - Komitmen dan semangat mahasiswa Kelompok Kuliah Kerja Nyata (KKN) Desa Lebakwangi tidak pernah luntur dalam memberikan dukungan bagi masyarakat desa. Kami kembali aktif melakukan berbagai kegiatan yang mendukung pendidikan dan pelayanan di desa.",
+            "p2": " Pagi hari dimulai dengan sesi mengajar di SDN Lebakwangi. Dengan penuh semangat, para mahasiswa KKN melanjutkan pengajaran yang telah dimulai sebelumnya. Materi-materi penting disampaikan dengan cara yang interaktif dan menarik, dengan tujuan agar siswa/i tidak hanya mendapatkan pemahaman yang baik, tetapi juga merasa enggan meninggalkan kelas.",
+            "p3": " Tidak hanya itu, para mahasiswa KKN juga berusaha untuk menjaga semangat siswa/i dengan memberikan permainan-permainan edukatif. Games seperti hitung cepat dan latihan daya ingat menjadi bagian dari sesi pembelajaran yang lebih santai, tetapi tetap berkaitan dengan materi pelajaran.",
+            "p4": "Sementara itu, di kantor desa, perwakilan anggota kelompok 15 menjalankan piket untuk membantu dalam proses administrasi. Pekerjaan seperti menginput data penduduk menjadi bagian dari kontribusi mereka untuk membantu desa dalam pekerjaan rutin. Piket ini dilakukan secara rutin sebagai bentuk kolaborasi aktif antara mahasiswa KKN dan pihak desa.",
+            "p5": " Tak hanya aktif dalam proses pengajaran dan pelayanan administratif, tim KKN juga terus bergerak dalam persiapan lomba gerak jalan desa Lebakwangi. Dalam rapat yang digelar siang hari, perwakilan dari setiap kelompok KKN berkumpul untuk membahas rincian terkait perlombaan tersebut. Dengan tekad dan koordinasi yang baik, persiapan lomba gerak jalan terus berjalan dengan baik dan semangat yang tinggi."
+                }
+},
+
+
+{
+    "hari" : "30",
+    "judul" : " Kolaborasi KKN 15, KKN Tematik dan Pelaku UMKM Desa Lebakwangi dalam Meningkatkan Kualitas Produk ",
+    "tanggal" : "09/08/2023",
+    "img" : "30.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 09/08/2023 - Kolaborasi yang kuat antara mahasiswa Kelompok Kuliah Kerja Nyata (KKN) Tematik dan pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di Desa Lebakwangi semakin memperkuat upaya untuk meningkatkan kualitas produk dan pelayanan. Pada sore hari, kerjasama tersebut semakin bersemangat dengan kunjungan ke salah satu pelaku UMKM yang dikenal karena kerupuknya yang lezat.",
+            "p2": " Dengan semangat yang tinggi, mahasiswa KKN Tematik bersama dengan kelompok KKN lainnya mengunjungi pelaku UMKM kerupuk tersebut. Tujuan dari kunjungan ini adalah untuk menyampaikan kerjasama dalam penyampaian sertifikasi halal bagi produk UMKM yang berminat. Sertifikasi halal menjadi salah satu faktor penting dalam membangun kepercayaan konsumen terhadap produk-produk yang dihasilkan.",
+            "p3": " Para mahasiswa memberikan penjelasan yang komprehensif tentang manfaat sertifikasi halal bagi pelaku UMKM dan bagaimana proses kerjasama ini dapat memberikan nilai tambah pada produk mereka. Pelaku UMKM merespon dengan antusias dan menyambut baik inisiatif ini, menunjukkan keseriusan dan komitmen mereka dalam menjaga kualitas dan kehalalan produk yang dihasilkan.",
+            "p4": "Kerjasama antara mahasiswa KKN Tematik dan pelaku UMKM ini mencerminkan semangat kolaborasi dalam upaya mendorong pertumbuhan ekonomi lokal dan memberikan dampak positif bagi masyarakat desa. Dengan sertifikasi halal yang terjamin, produk UMKM diharapkan semakin diminati oleh masyarakat lebih luas dan mendukung perekonomian lokal secara berkelanjutan."
+                }
+},
+
+
+{
+    "hari" : "31",
+    "judul" : " Kegiatan Mahasiswa KKN 15 di Lebakwangi Meliputi Pelajaran, Kerjasama, dan Kejuaraan ",
+    "tanggal" : "10/08/2023",
+    "img" : "31.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 10/08/2023 - Mahasiswa Kelompok Kuliah Kerja Nyata (KKN) kelompok 15 berkontribusi untuk masyarakat. Di hari yang penuh dengan beragam kegiatan ini, kami menjalankan tugas mereka dengan antusiasme dan semangat tinggi.",
+            "p2": " Di pagi hari, tepat pukul 8.30 WIB, perwakilan mahasiswa KKN 15 piket di kantor Desa Lebakwangi untuk melaksanakan piket. Tugasnya mencakup penginputan data dan berkontribusi di bagian pelayanan administrasi masyarakat. Selain tugas tersebut, mereka juga membuka meja pendaftaran untuk acara gerak jalan dalam rangka memeriahkan HUT RI ke-78.",
+            "p3": " Tidak hanya itu, mahasiswa juga menjalankan tanggung jawab pengajaran di beberapa Sekolah Dasar di wilayah Lebakwangi. Di kelas 4, mereka mengajarkan konsep perkalian dengan metode yang kreatif dan melibatkan partisipasi aktif siswa. Di samping itu, mereka juga mengajar di kelas 2 dengan fokus pada materi perkalian yang lebih dasar, memberikan pengajaran yang menyenangkan dan interaktif.",
+            "p4": "Kegiatan tersebut bukanlah akhir dari jadwal padat. Pada pukul 09.00 WIB, kami menuju lapangan di Kecamatan Arjasari untuk menyaksikan pertandingan voli yang diikuti oleh tim voli putri dari berbagai desa di Kecamatan Arjasari. Pertandingan antara tim voli putri Desa Lebakwangi dan tim voli putri Desa Rancasari berjalan seru dan kompetitif. Tim voli putri Desa Lebakwangi akhirnya berhasil meraih kemenangan, menambah semangat dalam semangat persatuan dan kompetisi sehat.",
+            "p5": "Semua kegiatan ini mencerminkan semangat kolaborasi, dedikasi, dan keterlibatan aktif mahasiswa KKN dalam memberikan kontribusi yang bermanfaat bagi masyarakat Desa Lebakwangi. Dengan berbagai bentuk kegiatan, kami mewujudkan nilai-nilai positif dalam pendidikan, pelayanan, dan semangat olahraga."
+                }
+},
+
+
+{
+    "hari" : "32",
+    "judul" : " Hari Penuh Kegiatan untuk Mahasiswa KKN 15 meliputi Mengajar, Survei Rute, dan ke Rumah RW 11",
+    "tanggal" : "11/08/2023",
+    "img" : "32.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 11/08/2023 - Mahasiswa Kelompok Kuliah Kerja Nyata (KKN) kelompok 15 terus menunjukkan semangat dan dedikasi dalam memberikan dampak positif bagi masyarakat. Pada hari Jum'at yang padat dengan aktivitas, kami melaksanakan berbagai kegiatan yang berfokus pada pendidikan, kolaborasi, dan persiapan acara yang akan datang.",
+            "p2": " Di pagi hari, 07.00 WIB, mahasiswa KKN 15 melanjutkan program mengajar di SDN Lebakwangi 01. Kami memulai pembelajaran dengan Ice Breaking yang menyenangkan dan interaktif. Seluruh siswa kelas 5 berpartisipasi dengan antusias dalam kegiatan ini. Setelah itu, para siswa dibagi menjadi kelompok-kelompok kecil untuk mengisi Teka Teki Silang (TTS) yang berkaitan dengan materi yang telah diajarkan sebelumnya. Ini merupakan pendekatan kreatif untuk menguji pemahaman siswa terhadap materi pelajaran.",
+            "p3": " Di jam istirahat, para mahasiswa dan siswa kelas 5 menjalankan kegiatan makan bersama. Ini adalah bagian dari pendidikan untuk mengajarkan siswa tentang pengelolaan keuangan pribadi dan pentingnya mengelola uang dengan bijak.",
+            "p4": "Pada pukul 16.00 WIB, para mahasiswa melaksanakan survey rute untuk kegiatan gerak jalan yang akan datang dalam rangka memeriahkan HUT RI. Mereka melakukan peninjauan rute untuk memastikan kondisi jalan dan persiapan yang diperlukan. Survey ini merupakan tahap akhir yang menghasilkan rute final yang akan dilewati dalam acara gerak jalan. Kegiatan survey ini menunjukkan tanggung jawab mereka dalam memastikan kesuksesan acara yang akan datang.",
+            "p5": "Sore harinya, 16.30 WIB, para mahasiswa KKN 15 pergi ke rumah para ketua Rukun Warga (RW) dalam wilayah Kadus 2 untuk mengumpulkan uang pendaftaran untuk acara gerak jalan yang akan menjadi bagian dari perayaan HUT RI ke-78 di Desa Lebakwangi. Ini menunjukkan keterlibatan aktif dalam persiapan dan pengelolaan acara.",
+            "p6": "Semua kegiatan ini mencerminkan semangat kerja keras dan kolaborasi yang tinggi dari para mahasiswa KKN dalam memberikan dampak positif bagi masyarakat dan mempersiapkan acara yang berarti untuk memperingati hari kemerdekaan Indonesia."
+                }
+},
+
+{
+    "hari" : "33",
+    "judul" : " Persiapan Matang untuk Gerak Jalan HUT RI ke-78 di Lebakwangi ",
+    "tanggal" : "12/08/2023",
+    "img" : "33.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 12/08/2023 - Semangat memperingati Hari Ulang Tahun Republik Indonesia yang ke-78 terus berkobar di Desa Lebakwangi. Kelompok Kuliah Kerja Nyata (KKN) dari kelompok 15, 13, dan 14 bekerja sama dalam mempersiapkan dengan matang kegiatan gerak jalan yang akan menjadi sorotan utama dalam perayaan tersebut.",
+            "p2": " Pukul 10.00 WIB, aula Desa Lebakwangi menjadi pusat aktivitas yang ramai. Mahasiswa dari ketiga kelompok KKN bergotong-royong membersihkan dan merapihkan aula yang akan menjadi tempat acara gerak jalan berlangsung. Kebersamaan dan semangat kolaborasi terlihat saat mereka bekerja sama untuk menciptakan lingkungan yang nyaman untuk peserta gerak jalan.",
+            "p3": " Selain mempersiapkan tempat, para mahasiswa juga membuka meja pendaftaran untuk penjualan tiket gerak jalan. Ini adalah bagian penting dalam proses persiapan karena tiket akan menjadi akses peserta untuk ikut serta dalam acara yang sangat diantisipasi.",
+            "p4": "Kegiatan berlanjut pada pukul 12.30 WIB dengan rapat pra acara gerak jalan yang dihadiri oleh para perwakilan dari kelompok 15, 13, dan 14. Rapat ini membahas secara rinci segala hal yang dibutuhkan dalam pelaksanaan gerak jalan. Rencana kegiatan, tata cara, dan peran masing-masing kelompok dibahas untuk memastikan semuanya berjalan lancar.",
+            "p5": "Setelah rapat selesai, persiapan doorprize untuk kegiatan gerak jalan dimulai. Doorprize merupakan bagian menarik dalam acara ini yang diharapkan dapat meningkatkan antusiasme peserta. Barang-barang menarik dan bernilai telah dikemas rapi untuk diberikan kepada peserta yang beruntung.",
+            "p6": " Semua persiapan ini mencerminkan komitmen dan semangat tinggi para mahasiswa KKN dalam membuat perayaan HUT RI ke-78 menjadi momen bersejarah dan bermakna bagi warga Desa Lebakwangi."
+                }
+},
+
+{
+    "hari" : "34",
+    "judul" : " Semangat dan Kemeriahan dalam Gerak Jalan Meriahkan HUT RI ke-78 di Desa Lebakwangi  ",
+    "tanggal" : "13/08/2023",
+    "img" : "34.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 13/08/2023  - Hari yang dinanti-nantikan akhirnya tiba di Desa Lebakwangi, semarak perayaan Hari Ulang Tahun Republik Indonesia yang ke-78 dirayakan dengan penuh semangat dan kemeriahan. Kelompok 15 KKN bersama dengan kelompok 13 dan 14 bekerja keras untuk mempersiapkan kegiatan gerak jalan yang berlangsung dengan sangat meriah.",
+            "p2": " Pukul 07.30 WIB, Aula Desa Lebakwangi menjadi pusat kegiatan. Para anggota kelompok KKN berkumpul bersama dengan kelompok 13 dan 14 serta para peserta yang bersemangat untuk mengikuti gerak jalan. Tiket gerak jalan masih terus dijual dan totalnya mencapai sekitar 800 tiket. Antusiasme peserta terlihat dari jumlah tiket yang terjual, dan diprediksi lebih dari 800 peserta akan bergabung tanpa tiket resmi.",
+            "p3": " Pukul 07.30, acara dimulai dengan sambutan dari berbagai pihak, termasuk Pak Kepala Desa, Ketua Karang Taruna, dan Ketua Kelompok 15. Suasana semakin membara seiring semangat dalam menyambut hari kemerdekaan.",
+            "p4": "Para peserta memulai gerak jalan dengan penuh gairah tepat pukul 08.00. Rute gerak jalan membawa peserta melintasi jalan-jalan desa yang strategis, seperti dari gor Desa Lebakwangi menuju gunung andai, melewati beberapa RW, dan akhirnya kembali ke gor Desa Lebakwangi. Dalam suasana kemeriahan, lagu-lagu patriotik seperti Indonesia Raya dan lagu-lagu daerah mengiringi langkah peserta.",
+            "p5": "Pukul 10.00, para peserta tiba di garis finish di gor Desa Lebakwangi. Tidak hanya kegiatan berjalan-jalan, tetapi hiburan dan doorprize juga telah disiapkan. Hiburan lagu dangdut menggema dan doorprize dibagikan kepada peserta yang beruntung. Semua peserta terlihat ceria dan bahagia dalam momen ini.",
+            "p6": " Pukul 11.30, acara gerak jalan HUT RI ke-78 di Desa Lebakwangi secara resmi berakhir. Namun, semangat persatuan, kebersamaan, dan semangat perjuangan tetap terasa dan akan terus dikenang dalam ingatan warga Desa Lebakwangi."
+                }
+},
+
+
+{
+    "hari" : "35",
+    "judul" : " Desa Lebakwangi Memperlihatkan Kebersamaan dalam Memeriahkan HUT RI ke-78",
+    "tanggal" : "14/08/2023",
+    "img" : "35.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 14/08/2023 - Semangat kemerdekaan terus berkobar di Desa Lebakwangi, kelompok KKN 15 beserta  beberapa prangkat Desa Lebakwangi berkumpul di beskem Desa untuk meriahkan peringatan Hari Ulang Tahun Republik Indonesia yang ke-78 dengan kerja keras dan kreativitas yang tinggi.",
+            "p2": " Pukul 21.00 WIB, beskem Desa Lebakwangi menjadi tempat berkumpulnya semangat dan ide-ide kreatif. Dengan semangat kebersamaan, anggota kelompok KKN 15 dan beberapa prangkat Desa Lebakwangi bekerja bersama-sama untuk membuat hiasan-hiasan yang akan digunakan dalam peringatan HUT RI ke-78.",
+            "p3": " Berbagai hiasan dibuat dengan tema kemerdekaan dan identitas Desa Lebakwangi. Papan nama dengan tulisan ","Desa Lebakwangi":" dibuat dengan penuh cermat, menunjukkan identitas yang kuat. Selain itu, topi-topi dengan ciri khas Desa Lebakwangi juga diproduksi. Semua atribut ini akan digunakan pada acara peringatan HUT RI ke-78 di Kecamatan Arjasari.",
+            "p4": "Tujuan dari pembuatan atribut ini adalah untuk memperlihatkan semangat kebangsaan dan cinta tanah air, serta memeriahkan acara yang akan datang. Melalui hiasan-hiasan ini, Desa Lebakwangi ingin menunjukkan identitas dan kebanggaannya sebagai bagian dari bangsa Indonesia yang merdeka dan bersatu.",
+            "p5": " Dengan semangat gotong royong dan kekompakan, Desa Lebakwangi berupaya untuk ikut serta dalam merayakan peringatan HUT RI ke-78 dengan cara yang kreatif dan bermakna."
+                }
+},
+
+
+{
+    "hari" : "36",
+    "judul" : " Berbagai Kegembiraan dalam Merayakan HUT RI ke-78 di Desa Lebakwangi ",
+    "tanggal" : "15/08/2023",
+    "img" : "36.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 15/08/2023 - Semarak perayaan Hari Ulang Tahun Republik Indonesia yang ke-78 terus dirasakan di Desa Lebakwangi, berbagai kegiatan menggembirakan dan penuh makna telah dilakukan oleh warga Desa Lebakwangi dalam rangka memeriahkan momen penting ini.",
+            "p2": " Perpisahan Hangat di SDN Lebakwangi 01 pada Pukul 08.00 WIB, para anggota kelompok KKN berangkat ke SDN Lebakwangi 01 untuk mengadakan acara perpisahan yang penuh emosi. Kegiatan ini dimulai dengan pertemuan dengan kepala sekolah, di mana momen keakraban dan bincang-bincang penuh kehangatan terjadi. Selanjutnya, pemberian plakat sebagai kenang-kenangan kepada sekolah dan guru-guru sebagai ungkapan terima kasih dan penghargaan atas kerja sama yang telah terjalin selama periode KKN. Acara perpisahan ini diakhiri dengan sesi foto bersama yang penuh keceriaan.",
+            "p3": " Selanjutnya Pada pukul 11.00 WIB, warga Desa Lebakwangi berkumpul di lapangan Kecamatan Arjasari untuk menyaksikan pertandingan final Volly Ball yang seru. Tim Volly putra Desa Lebakwangi bertarung sengit melawan tim Volly putra Rancakole. Warga dan para pendukung berduyun-duyun datang untuk menyaksikan pertandingan ini. Dengan semangat yang membara, pertandingan ini akhirnya dimenangkan oleh tim Volly putra Rancakole.",
+            "p4": "Selain itu, kelompok KKN 15 Desa Lebakwangi turut serta dalam perlombaan yang digelar di lapangan Arjasari dalam rangka memeriahkan HUT RI ke-78. Berbagai jenis lomba diikuti, seperti balap karung dan memasukkan paku ke dalam botol. Kegiatan ini tak hanya membangun semangat kebersamaan dan persaingan yang sehat, tapi juga melahirkan tawa dan kegembiraan di antara peserta. Lomba-lomba tersebut berlangsung hingga sore hari dan diakhiri dengan pembagian hadiah serta doorprize yang mengundang keceriaan bagi para pemenang."
+                }
+},
+
+
+{
+    "hari" : "37",
+    "judul" : " Berbagai Kegiatan Meriahkan Persiapan Penutupan KKN Sisdamas Moderasi Beragama ",
+    "tanggal" : "16/08/2023",
+    "img" : "37.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 16/08/2023* - Berbagai kegiatan seru dan bermanfaat terus menghiasi hari-hari di Desa Lebakwangi dalam rangka persiapan penutupan KKN Sisdamas Moderasi Beragama, anggota kelompok KKN terlibat dalam beragam kegiatan yang memperkaya pengalaman dan semakin mempersiapkan acara penutupan yang diantisipasi.",
+            "p2": " Pukul anggota kelompok KKN 15 mengunjungi sawah yang diisi oleh petani yang sedang asyik menanam padi. Dalam semangat belajar dan berbagi pengetahuan, para petani dengan tulus berbagi tentang teknik menanam padi yang baik dan benar. Kemudian, dengan semangat gotong royong, para anggota KKN turun langsung ke sawah untuk menanam padi bersama para petani, menunjukkan keterlibatan yang erat dengan masyarakat dan lingkungan setempat.",
+            "p3": " Di lanjut  kelompok KKN turut serta dalam latihan upacara yang berlangsung di lapangan RW 12. Dalam latihan ini, mereka membentuk paduan suara yang akan menjadi bagian dari upacara. Setelah latihan selesai, mereka juga turut berpartisipasi dalam pembuatan hiasan serta menyiapkan alat dan bahan yang dibutuhkan untuk perlombaan yang akan diadakan dalam rangka perayaan HUT RI ke-78.",
+            "p4": "Selain itu di lapangan pingpong RW 11 menjadi saksi semaraknya pertandingan pingpong yang diikuti oleh warga Desa Lebakwangi, termasuk para ketua RW dan RT, serta anggota karang taruna. Suasana semakin meriah dengan hadirnya banyak penonton yang mendukung para pemain. Pertandingan berlangsung seru dan akhirnya dimenangkan oleh pak Rahmat dari RW 11, menambah semangat dan keceriaan malam itu.",
+            "p5": " Kemudian beberapa perwakilan setiap kelompok 13, 14, 15 mengadakan rapat gabungan di Cafe Batoe, untuk membahas persiapan penutupan KKN Sisdamas Moderasi Beragama di Desa Lebakwangi. Rapat ini digelar guna mengetahui progres persiapan acara penutupan dan merumuskan langkah-langkah yang masih diperlukan. Salah satu hasil diskusi penting adalah pengaturan waktu dan persiapan peralatan serta undangan untuk acara penutupan yang dijadwalkan pada hari Jumat, 18 Agustus 2023, pukul 13.30.",
+            "p6": "Persiapan penutupan KKN Sisdamas Moderasi Beragama di Desa Lebakwangi terus berjalan, dan dengan semangat penuh, kelompok KKN berharap acara penutupan akan menjadi momentum istimewa untuk mengenang dan merayakan hasil kerja keras dan pengalaman berharga selama masa KKN."
+                }
+},
+
+{
+    "hari" : "38",
+    "judul" : " Berbagai Kegiatan Meriahkan Persiapan Penutupan KKN Sisdamas Moderasi Beragama ",
+    "tanggal" : "17/08/2023",
+    "img" : "38.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 17/08/2023 - Semangat peringatan Hari Ulang Tahun (HUT) Republik Indonesia ke-78 begitu terasa di Desa Lebakwangi. Penuh semangat dan kebersamaan, berbagai acara dirangkai untuk merayakan momen bersejarah ini.",
+            "p2": " kelompok KKN 15 bersiap untuk menghadiri upacara bendera di lapangan RW 12. Upacara dimulai pukul 07.15 WIB dengan suasana yang khidmat. Kehadiran warga RW 12, pengurus RW, IREJA (Ikatan Remaja Jati Raya), ibu-ibu PKK, hingga anak-anak, semakin memperkaya atmosfer peringatan HUT RI. Usai upacara, diadakan karnaval yang mengelilingi wilayah RW 12, di mana seluruh peserta bersemangat memamerkan atribut dan kostum yang menggambarkan semangat kebangsaan.",
+            "p3": " Setelah karnaval, diadakan ramah tamah yang diikuti dengan makan bersama warga RW 12. Pukul 10.00 WIB, beragam perlombaan meriah dimulai, termasuk lomba makan kerupuk yang diikuti oleh anak-anak. Selain itu, berbagai perlombaan lainnya menambah semarak perayaan.",
+            "p4": "Selain menghadiri upacara di RW 12, perwakilan kelompok KKN 15 juga berpartisipasi dalam upacara di lapangan Kecamatan Arjasari. Acara ini mengumpulkan berbagai Desa dan kelompok KKN dari kecamatan yang sama. Setelah upacara, peserta melanjutkan dengan karnaval yang melibatkan semua peserta dengan semangat.",
+            "p5": " Kemudian di lanjut di lapangan RW 11, berbagai perlombaan digelar seperti lomba pukul air dan tarik tambang yang diikuti dengan antusias oleh anak-anak. Kemudian, kelompok KKN 15 diundang untuk menghadiri syukuran di masjid Al-Qadr. Acara dimulai setelah shalat magrib dengan berbagai rangkaian, termasuk ceramah dan shalat isya berjamaah. Acara tersebut dihadiri oleh berbagai pihak seperti DKM masjid, Ustadz, pengurus RW dan RT, karang taruna, serta masyarakat RW 11.",
+            "p6": "Semangat peringatan HUT RI ke-78 benar-benar dirasakan oleh seluruh warga Desa Lebakwangi, dari anak-anak hingga kaum tua. Berbagai acara dan kegiatan yang penuh makna mengukuhkan ikatan sosial serta cinta tanah air dalam setiap langkah peringatan ini."
+                }
+},
+
+{
+    "hari" : "39",
+    "judul" : " KKN Sisdamas Moderasi Beragama Desa Lebakwangi Resmi Ditutup dengan Haru",
+    "tanggal" : "18/08/2023",
+    "img" : "39.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 18/08/2023 - Suasana haru dan kesedihan melingkupi gor Desa Lebakwangi pada Jumat siang. Penutupan Kuliah Kerja Nyata (KKN) Sisdamas Moderasi Beragama di Desa Lebakwangi menjadi momen yang penuh makna dan bermakna bagi semua yang terlibat.",
+            "p2": " Para peserta KKN bersama perwakilan kelompok berangkat menuju aula Desa Lebakwangi untuk menghadiri acara penutupan. Acara ini dihadiri oleh sejumlah tamu undangan penting, seperti Kepala Desa, Kepala Dusun, BABINSA, BABINKAMTIBMAS, dan Dosen Pembimbing Lapangan (DPL) KKN, Bapak Irwandi, S.Sos., SE., M.Ag. Keberadaan para tamu ini menambah hikmat dan makna pada acara penutupan.",
+            "p3": " Acara penutupan KKN Sisdamas Moderasi Beragama Desa Lebakwangi dimulai. Suasana haru seolah melingkupi setiap sudut aula. Pesan-pesan yang disampaikan oleh para tamu undangan dan DPL mengandung makna yang dalam, mendorong air mata haru mengalir di antara para peserta KKN. Rasa bangga dan rasa kebersamaan selama masa KKN terpancar dalam setiap sudut ruangan.",
+            "p4": "Dalam suasana yang sarat makna ini, acara penutupan berlangsung dengan suasana penuh penghayatan. Para peserta KKN merenungkan perjalanan mereka selama berada di Desa Lebakwangi, mengenang segala usaha, kerjasama, dan pengalaman berharga yang telah mereka alami bersama.",
+            "p5": " Acara penutupan ini menjadi titik akhir perjalanan KKN Sisdamas Moderasi Beragama Desa Lebakwangi. Meskipun penuh dengan haru, acara ini juga mengingatkan bahwa perpisahan adalah awal dari perjalanan lain. Pesan-pesan dan pengalaman yang diperoleh akan terus menjadi bekal berharga dalam perjalanan ke depan. Acara penutupan KKN Sisdamas Moderasi Beragama ini resmi ditutup pukul 15.30 WIB, namun jejaknya akan terus dikenang dan memberi inspirasi bagi semua yang terlibat."
+                }
+},
+
+
+{
+    "hari" : "40",
+    "judul" : " Pamit dan Penghormatan, Pengabdian Mahasiswa KKN di Desa Lebakwangi Berakhir",
+    "tanggal" : "19/08/2023",
+    "img" : "40.jpg" ,
+    "konten" : {
+ 	        "p1" : " Desa Lebakwangi, 19/08/2023 - Tiba saatnya bagi para mahasiswa Kuliah Kerja Nyata (KKN) dari kelompok 15 yang telah mengabdikan diri mereka di Desa Lebakwangi untuk mengakhiri pengabdian dan kembali ke kampus dengan penuh dengan rasa haru dan penghormatan, kami memberikan salam perpisahan kepada masyarakat setempat.",
+            "p2": " Setelah acara pamitan, para mahasiswa KKN 15 bersama-sama membersihkan dan merapihkan posko yang telah menjadi tempat mereka berkolaborasi dan bekerja selama kurun waktu 40 hari.",
+            "p3": " Dengan mengenang momen-momen berharga selama pengabdian kami, para mahasiswa KKN meninggalkan Desa Lebakwangi dengan bekal pengalaman dan kenangan yang tak terlupakan. Pengalaman ini tidak hanya melibatkan kegiatan-kegiatan konkrit yang dilakukan selama pengabdian, tetapi juga hubungan emosional yang terjalin dengan masyarakat setempat.",
+            "p4": "Meskipun pengabdian di Desa Lebakwangi telah berakhir, jejak positif yang ditinggalkan oleh para mahasiswa KKN akan terus terasa. Kolaborasi antara mahasiswa dan masyarakat telah menghasilkan banyak ide, proyek, dan hubungan yang dapat terus berdampak positif untuk kemajuan desa dan pembelajaran mahasiswa.",
+            "p5": " Acara pamitan ini mengingatkan kita tentang pentingnya berbagi, belajar, dan memberikan kontribusi kepada masyarakat. Para mahasiswa KKN akan selalu membawa pengalaman dan pelajaran dari pengabdian mereka dalam perjalanan mereka di masa depan."
+                }
 }
+
+
 ]
